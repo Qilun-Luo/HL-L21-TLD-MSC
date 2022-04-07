@@ -23,4 +23,4 @@ Hyper-Laplacian Regularized Multi-View Clustering with Exclusive L21 Regularizat
 |RMSL|Reciprocal multi-layer subspace learning for multi-view clustering|2019|[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Reciprocal_Multi-Layer_Subspace_Learning_for_Multi-View_Clustering_ICCV_2019_paper.pdf)|[MATLAB](https://github.com/lslrh/RMSL)|
 |SM<sup>2</sup>SC|Split multiplicative multi-view subspace clustering|2019|[TIP](https://doi.org/10.1109/TIP.2019.2913096)|[MATLAB](https://github.com/joshuaas/SM2SC)|
 |CDMGC| Measuring diversity in graph learning: a unified framework for structured multi-view clustering|2021|[TKDE](https://doi.org/10.1109/TKDE.2021.3068461)|[MATLAB](https://github.com/huangsd/CDMGC)|
-|CoMSC|Multiview subspace clustering via co-training robust data representation|2021|[TNNL](https://doi.org/10.1109/TNNLS.2021.3069424)|[MATLAB](https://github.com/liujiyuan13/CoMSC-code_release)|
+|CoMSC|Multiview subspace clustering via co-training robust data representation|2021|[TNNLS](https://doi.org/10.1109/TNNLS.2021.3069424)|[MATLAB](https://github.com/liujiyuan13/CoMSC-code_release)|
