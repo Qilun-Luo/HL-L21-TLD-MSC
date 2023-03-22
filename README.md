@@ -1,7 +1,7 @@
 # HL-L21-TLD-MSC
 Implementation for:
 
-Hyper-Laplacian Regularized Multi-View Clustering with Exclusive L21 Regularization and Tensor Log-Determinant Minimization Approach
+Luo, Q., Yang, M., Li, W., & Xiao, M. (2023). Hyper-Laplacian Regularized Multi-View Clustering with Exclusive L21 Regularization and Tensor Log-Determinant Minimization Approach. ACM Transactions on Intelligent Systems and Technology. [https://doi.org/10.1145/3587034](https://doi.org/10.1145/3587034)
 
 ## Folders
 - `algs` includes only the proposed model.
